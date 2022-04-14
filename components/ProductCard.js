@@ -23,7 +23,11 @@ const ProductCard = ({ product }) => {
           </div>
         </div>
         <h3 className="mt-4 text-lg font-medium text-gray-200">{title}</h3>
-        <p className="mt-1 text-sm text-gray-200">{formatter.format(price)}</p>
+        <p className="mt-1 text-sm text-gray-200">
+          {" "}
+          <strike className="pr-5 text-red-500">$89.90</strike>
+          {formatter.format(price)}
+        </p>
       </a>
     </Link>
   );

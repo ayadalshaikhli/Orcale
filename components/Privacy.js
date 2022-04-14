@@ -10,7 +10,8 @@ function Privacy() {
         <div className="shipping__info flex pb-3">
           <h1 className="p-10 font-bold w-1/4">Privacy policy</h1>
           <p className="p-10 w-1/2">
-            Tataroski is compliant with The General Data Protection Regulation
+            Oracle Diffuser is compliant with The General Data Protection
+            Regulation
           </p>
         </div>
         <div className="shipping__info flex pb-3">
@@ -24,7 +25,7 @@ function Privacy() {
 
         <div className="shipping__info flex pb-3">
           <h1 className="p-10 font-bold w-1/4">
-            At www.tataroski.com, we collect.
+            At www.OracleDiffuser.com, we collect.
           </h1>
           <div className="p-10 w-1/2">
             <ul className="pb-5">
@@ -86,7 +87,7 @@ function Privacy() {
         </div>
         <div className="shipping__info flex pb-3">
           <h1 className="p-10 font-bold w-1/4">
-            You can email us at tataroskijewelry@gmail.com and ask:
+            You can email us at orcalediffuser@gmail.com and ask:
           </h1>
           <ul
             className="p-10 w-1/2"

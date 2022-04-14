@@ -60,7 +60,9 @@ export default function Footer() {
             </div>
           ))} */}
         </nav>
-        <p className="mt-8 text-center text-gray-400">&copy; 2022 Tataroski</p>
+        <p className="mt-8 text-center text-gray-400">
+          &copy; 2022 Oracle Diffuser
+        </p>
       </div>
     </footer>
   );

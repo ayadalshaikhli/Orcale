@@ -21,7 +21,7 @@ export default function Nav() {
         <div>
           <Link href="/" passHref>
             <a className="cursor-pointer">
-              <span className="text-4xl pt-1  font-bold">Tataroski</span>
+              <span className="text-4xl pt-1  font-bold">Oracle Diffuser</span>
             </a>
           </Link>
         </div>

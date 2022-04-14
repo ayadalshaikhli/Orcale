@@ -8,7 +8,7 @@ export default function Home({ products }) {
   return (
     <div style={{ backgroundColor: "#000" }} className="relative ">
       <Head>
-        <title>Tataroski</title>
+        <title>Oracle Diffuser</title>
         <meta httpEquiv="Content-Type" content="text/html; charset=utf-8" />
         <meta
           httpEquiv="Content-Type"
@@ -21,7 +21,7 @@ export default function Home({ products }) {
           create the unique one for everyone. We love every passion and interest
           on Earth because it is a reference to the UNIQUENESS of everything."
         />
-        <meta property="og:title" content="Tataroski" />
+        <meta property="og:title" content="Oracle Diffuser" />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://www.buildnextshop.com" />
         <meta
@@ -36,7 +36,7 @@ export default function Home({ products }) {
           on Earth because it is a reference to the UNIQUENESS of everything."
         />
         <meta property="og:locale" content="en_US" />
-        <meta property="og:site_name" content="Tataroski" />
+        <meta property="og:site_name" content="Oracle Diffuser" />
       </Head>
       <div className="wrap">
         <Hero products={products} />

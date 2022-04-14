@@ -15,12 +15,12 @@ export default function FrontPage() {
     <div style={{ height: "70vh" }} className="relative text-white">
       <div className="justify-center text-center">
         <div className="line pt-48 text-4xl font-mono">
-          <span>Ignite Your Dreams</span>
+          <span>Boost Your Immunity</span>
         </div>
         <div className="line font-mono py-5 text-xl">
           <span>
-            We work it one way, you work it your way. <br /> Be your boldest
-            self and embrace a new world of wonder in crystal and color.
+            The Orcale Diffuser is a truly unique 2 in 1 oil diffuser and indoor
+            fireplace.
           </span>
         </div>
       </div>
